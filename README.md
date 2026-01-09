@@ -91,11 +91,13 @@ My name is **José Ángel** and I am a **Software and Network Engineering studen
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doikson&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doikson&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Doikson&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Doikson&layout=compact&theme=dracula)
+
+## 📈 Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Doikson&theme=react-dark)
+
 
 ---
 
